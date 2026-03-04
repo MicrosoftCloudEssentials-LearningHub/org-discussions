@@ -9,7 +9,11 @@ Last updated: 2026-03-04
 
 ----------
 
-This repository is the **home of GitHub Discussions** for the organization.
+> This repository is the **home of GitHub Discussions** for the organization.
+
+> E.g: 
+
+<img width="1896" height="782" alt="image" src="https://github.com/user-attachments/assets/313bb41a-d11f-4f19-b5a4-7255a67e40c8" />
 
 Use it to:
 - Share announcements and updates
